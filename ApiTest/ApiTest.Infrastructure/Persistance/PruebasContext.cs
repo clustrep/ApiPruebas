@@ -1,5 +1,5 @@
 ﻿using System;
-using ApiTest.Domain.Data;
+using ApiTest.Domain;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 // If you have enabled NRTs for your project, then un-comment the following line:
 // #nullable disable
 
-namespace ApiTest.Infrastructure.Data
+namespace ApiTest.Infrastructure.Persistance
 {
     public partial class PruebasContext : DbContext
     {

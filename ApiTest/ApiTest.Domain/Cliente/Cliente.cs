@@ -5,9 +5,9 @@ using System.Collections.Generic;
 // If you have enabled NRTs for your project, then un-comment the following line:
 // #nullable disable
 
-namespace ApiTest.Domain.Data
+namespace ApiTest.Domain
 {
-    public partial class Cliente
+    public class Cliente
     {
         public int CodCliente { get; set; }
         public string NombreCompleto { get; set; }

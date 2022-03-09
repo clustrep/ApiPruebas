@@ -1,4 +1,6 @@
-using ApiTest.Infrastructure.Data;
+using ApiTest.Extensiones;
+using ApiTest.Infrastructure.Persistance;
+using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -27,9 +29,16 @@ namespace ApiTest
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddControllers();
             services.AddDbContext<PruebasContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("SqlConnectionString")));
+            services.AddApplicationServices(Configuration);
+
+            services.AddMvc().AddFluentValidation(options =>
+            {
+                options.RegisterValidatorsFromAssemblies(AppDomain.CurrentDomain.GetAssemblies());
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

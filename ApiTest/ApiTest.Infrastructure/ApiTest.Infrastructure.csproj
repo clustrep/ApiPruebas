@@ -13,10 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ApiTest.Core\ApiTest.Core.csproj" />
     <ProjectReference Include="..\ApiTest.Domain\ApiTest.Domain.csproj" />
   </ItemGroup>

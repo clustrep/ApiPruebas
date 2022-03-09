@@ -32,7 +32,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\ApiPruebas\\ApiPruebas\\ApiTest\\ApiTest.Domain\\ApiTest.Domain.csproj": {
+                "projectPath": "D:\\ApiPruebas\\ApiPruebas\\ApiTest\\ApiTest.Domain\\ApiTest.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -44,6 +48,16 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

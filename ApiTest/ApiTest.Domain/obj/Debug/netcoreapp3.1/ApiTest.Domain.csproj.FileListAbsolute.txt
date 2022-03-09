@@ -7,4 +7,3 @@ D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Domain\obj\Debug\netcoreapp3.1\ApiTest.
 D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Domain\obj\Debug\netcoreapp3.1\ApiTest.Domain.csproj.CoreCompileInputs.cache
 D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Domain\obj\Debug\netcoreapp3.1\ApiTest.Domain.dll
 D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Domain\obj\Debug\netcoreapp3.1\ApiTest.Domain.pdb
-D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Domain\obj\Debug\netcoreapp3.1\ApiTest.Domain.csproj.AssemblyReference.cache

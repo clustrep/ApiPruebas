@@ -1,10 +1,12 @@
-D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Core\bin\Debug\netcoreapp3.1\ApiTest.Core.deps.json
-D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Core\bin\Debug\netcoreapp3.1\ApiTest.Core.dll
-D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Core\bin\Debug\netcoreapp3.1\ApiTest.Core.pdb
+D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Core\obj\Debug\netcoreapp3.1\ApiTest.Core.csproj.AssemblyReference.cache
 D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Core\obj\Debug\netcoreapp3.1\ApiTest.Core.GeneratedMSBuildEditorConfig.editorconfig
 D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Core\obj\Debug\netcoreapp3.1\ApiTest.Core.AssemblyInfoInputs.cache
 D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Core\obj\Debug\netcoreapp3.1\ApiTest.Core.AssemblyInfo.cs
 D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Core\obj\Debug\netcoreapp3.1\ApiTest.Core.csproj.CoreCompileInputs.cache
+D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Core\bin\Debug\netcoreapp3.1\ApiTest.Core.deps.json
+D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Core\bin\Debug\netcoreapp3.1\ApiTest.Core.dll
+D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Core\bin\Debug\netcoreapp3.1\ApiTest.Core.pdb
+D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Core\bin\Debug\netcoreapp3.1\ApiTest.Domain.dll
+D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Core\bin\Debug\netcoreapp3.1\ApiTest.Domain.pdb
 D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Core\obj\Debug\netcoreapp3.1\ApiTest.Core.dll
 D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Core\obj\Debug\netcoreapp3.1\ApiTest.Core.pdb
-D:\ApiPruebas\ApiPruebas\ApiTest\ApiTest.Core\obj\Debug\netcoreapp3.1\ApiTest.Core.csproj.AssemblyReference.cache
